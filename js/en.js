@@ -1,0 +1,22 @@
+window.I18N_EN = {
+  skip: 'Skip to content', n1: 'Work', n2: 'Artists', n3: 'Process', n4: 'Studio', dm: 'Book via DM',
+  rev: 'reviews',
+  sub: 'Tattoo studio on Carrer del Carme, Lloret de Mar. Realism, black and grey, Maori, cover-ups and lettering with Christian and Tomy.',
+  dmB: 'Book on Instagram', call: 'Call 600 86 02 49', langs: 'We speak Spanish, English, French and Italian',
+  angelAlt: 'Chest tattoo of an angel with wings and the words Faith over fear', hud: 'Run the machine over the stencil', again: 'Again',
+  prh: 'From stencil to skin',
+  p1h: 'Idea and design', p1p: 'Tell us what you want, even if you are not sure yet. We draw it with you and add our own touch.',
+  p2h: 'Stencil', p2p: 'We transfer the design onto stencil paper and place it on your skin, moving it until it fits your body perfectly.',
+  p3h: 'Ink', p3p: 'We tattoo at your pace: we check how you are doing and stop whenever you need. Large pieces are done in sessions.',
+  p4h: 'Aftercare', p4p: 'We explain how to heal it so it looks like day one.',
+  tbh: 'Work', tbp: 'Every piece starts as a stencil. Scroll down and watch it get inked. <span class="tip-fine">Hover to go back to the stencil.</span>',
+  w1: 'Chest lion · realism', w2: 'Spartan helmet · 1950', w3: 'Virgin Mary · black and grey', w4: 'Mandala and geometry', w5: 'Piston 46 · colour', w6: 'Crowned lion', w7: 'Biker sleeve', w8: 'Spark plug · black and grey', w9: 'Anime', w10: 'Colour', w11: 'Ornamental', w12: 'Fine-line cross',
+  arh: 'Who tattoos you',
+  a1: 'The name behind the studio, tattooing in Lloret since 2008. Realism, black and grey, Maori and cover-ups: he quickly understands what you want and adds his personal touch.',
+  a2: 'Tattoos at the studio alongside Christian. Friendly and close, so you feel comfortable from start to finish.',
+  esh: 'Styles', e1: 'Realism', e3: 'Maori and tribal', e6: 'Colour', e7: 'Mandalas and geometry', e8: 'Motorbikes and bikers', e9: 'Religious',
+  rsh: '194 reviews, 4.9 stars', cover: 'Maori cover-up with Christian',
+  fachAlt: 'James Tattoo shopfront with the red sign, bulbs, the Open sign and the team at the door',
+  vsh: 'Carrer del Carme, 14', d1: 'Hours', hr: 'Every day, 11:00 to 22:00', d2: 'Bookings', ct: 'Send us a direct message on Instagram or call', d3: 'Walk-in', walk: 'Walk-ins welcome: drop by and we will see what we can do on the spot.', route: 'Directions',
+  lg1: 'Legal notice', lg2: 'Privacy', lg3: 'Cookies', lg4: 'Cookie settings'
+};
